@@ -4,5 +4,5 @@ package {
 
 hidl_package_root {
     name: "lineage.frameworks",
-    path: "hardware/lineage/interfaces/_frameworks",
+    path: "hardware/hertzify/interfaces/_frameworks",
 }
